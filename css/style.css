@@ -84,6 +84,15 @@ body {
   margin-top: -0.5rem;
 }
 
+@media (max-width: 575.98px) {
+  .font-title{
+    font-family: 'Allura', cursive !important;
+    font-size: 15rem !important;
+    text-shadow: white 0.01em 0.05em 0.1em;
+    margin-top: -0.5rem;
+  }
+}
+
 .font-text{
   font-size: initial;
 }
@@ -9687,7 +9696,7 @@ hr.light {
     color: #212529;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link:hover {
-    color: #f4623a;
+    color: #F250ED;
   }
 }
 
